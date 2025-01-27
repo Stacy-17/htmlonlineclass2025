@@ -1,0 +1,20 @@
+h2{
+    color: blue;
+    text-align: center;
+    font-family: "Agency FB", serif;
+    font-size: 35px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid brown;
+    padding: 8px;
+}
+p{
+    color: chocolate;
+  text-align: left;
+    font-family: Algerian, serif;
+    font-size: 13px;
+}

@@ -1,0 +1,36 @@
+.fruits{
+    background-color: aquamarine;
+    border: 3px solid black;
+    margin: 17px;
+    padding: 18px;
+    text-align: center;
+    font-family: "Bell MT", serif;
+    font-size: 20px;
+}
+.cars{
+    background-color: aqua;
+    border: 2px solid blueviolet;
+    margin: 17px;
+    padding: 18px;
+    text-align: center;
+    font-family: "Bauhaus 93", serif;
+     font-size: 20px;
+}
+.vehicles{
+    background-color: cornflowerblue;
+    border: 2px solid blue ;
+    margin: 17px;
+    text-align: center;
+    padding: 18px;
+    font-family: "Arial Rounded MT Bold", serif;
+     font-size: 20px;
+}
+#computer{
+     background-color: burlywood;
+    border:2px solid chartreuse;
+    margin: 17px;
+    text-align: center;
+    padding: 18px;
+    font-family: "Agency FB", serif;
+    font-size: 20px;
+}
